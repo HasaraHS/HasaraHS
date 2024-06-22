@@ -24,6 +24,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hasaraHS&theme=yeblu&no-frame=true&no-bg=false&margin-w=4)
 
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hasaraHS&limit=5&theme=yeblu&combine_all_yearly_contributions=true)
 
